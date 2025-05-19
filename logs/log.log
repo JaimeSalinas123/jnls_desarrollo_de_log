@@ -68,3 +68,6 @@
 05-19-2025 00:47:29.759724 CST 127.0.0.1 [info]: referer: NO_REFERER El archivo C:\xampp\htdocs\jnls_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 05-19-2025 00:47:49.850105 CST 127.0.0.1 [info]: referer: http://localhost/jnls_desarrollo_de_log/index.php El archivo C:\xampp\htdocs\jnls_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
 05-19-2025 00:48:15.358725 CST 127.0.0.1 [info]: referer: http://localhost/jnls_desarrollo_de_log/index.php El archivo C:\xampp\htdocs\jnls_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+
+05-19-2025 12:24:26.208600 CST ::1 [info]: referer: NULL REFERER El archivo C:\xampp\htdocs\jnls_desarrollo_de_log\index.php ha sido cargado Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
+05-19-2025 12:24:30.524700 CST ::1 [notice]: referer: http://localhost/jnls_desarrollo_de_log/index.php EL CLIENTE INICIÓ SESIÓN SATISFACTORIAMENTE Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 Safari/537.36
